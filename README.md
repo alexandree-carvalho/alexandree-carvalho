@@ -24,7 +24,11 @@ class AlexandreCarvalho {
 }
 ```
 
-Estudante de Informática no IF Sertão-PE, interessado em programação e desenvolvimento de software. Tenho contato com diferentes tecnologias durante meus estudos e gosto especialmente de Java.
+Olá! Sou Alexandre, estudante da tecnologia, interessado em programação, desenvolvimento de software e criação de soluções práticas.
+
+Minha jornada na informática envolve tanto os estudos quanto o aprendizado independente, explorando diferentes linguagens, ferramentas e ideias para ampliar meus conhecimentos.
+
+Atualmente, estudo tecnologias como Java, Python, SQL, desenvolvimento web e Git, buscando transformar o que aprendo em projetos e experiências práticas.
 
 ## `technologies`
 
@@ -38,18 +42,21 @@ Estudante de Informática no IF Sertão-PE, interessado em programação e desen
 
 <div align="center">
 
-<a href="https://github.com/alexandree-carvalho">
-  <img src="https://img.shields.io/badge/GitHub-alexandree--carvalho-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="https://www.instagram.com/alexandr.rlk/">
-  <img src="https://img.shields.io/badge/Instagram-alexandr.rlk-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
+<p align="center">
+  <a href="https://github.com/alexandree-carvalho" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/alexandr.rlk/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alexandre-carvalho-48524240a" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
+  </a>
+</p>
 </div>
 
 <div align="center">
 
-<sub>Estudante de Informática • Salgueiro, PE</sub>
+<sub>Técnico em Informática • Salgueiro, PE</sub>
 
 </div>
